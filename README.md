@@ -24,7 +24,7 @@ An interactive weather data visualization dashboard built with Next.js, React, a
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/Ayush-Mahariya/weather-dashboard.git
 cd weather-dashboard
 \`\`\`
 
@@ -109,10 +109,7 @@ npm run start
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-MIT License - see LICENSE file for details.
 
 ## 🆘 Support
 
-For support, please open an issue on GitHub or contact [your-email@example.com]
+For support, please open an issue on GitHub or contact [ayushmahariya123@gmail.com]
